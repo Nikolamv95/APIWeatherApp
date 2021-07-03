@@ -347,16 +347,4 @@
             </LinearLayout>
         </LinearLayout>
     </androidx.cardview.widget.CardView>
-
-    <TextView
-        android:id="@+id/text_view"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:padding="25dp"
-        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
-        android:textColor="#168ace"
-        android:textStyle="bold"
-        android:layout_gravity="center"
-        android:text="Tap an item from action bar menu."
-        />
 </LinearLayout>
